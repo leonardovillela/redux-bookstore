@@ -1,8 +1,8 @@
 export default function() {
   return [
-    { tile: 'Javascript Good Parts' },
-    { tile: 'Harry Potter' },
-    { tile: 'Black Tower' },
-    { tile: '1984' }
+    { title: 'Javascript Good Parts' },
+    { title: 'Harry Potter' },
+    { title: 'Black Tower' },
+    { title: '1984' }
   ]
 }
